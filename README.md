@@ -1,4 +1,5 @@
-# ¡Hola! Soy Camila Magne Hinojosa 👩‍💻
+# holaa, mi nombre es Camila Magne Hinojosa 👩‍💻
 
-🎓 Estudiante de Ingeniería en Informática 
-✨ "El misterio de la vida no es un problema a resolver, sino una realidad a experimentar."
+#🎓 Estudiante de Ingeniería en Informática 
+
+# "El misterio de la vida no es un problema a resolver, sino una realidad a experimentar."
