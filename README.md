@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/rWdGvK6.png" alt="kwisatzzzz - UMSS Engineering Student Profile Banner" width="100%">
+
 </p>
 
 # kwisatzzzz
